@@ -13,7 +13,7 @@ Uma aplicação simples de lista de tarefas feita em Python para praticar manipu
 1. Clone o repositório:
 
 ```
-git clone https: // github.com/borgesdavi/lista-de-tarefas-simples-python.git
+git clone https://github.com/borgesdavi/lista-de-tarefas-simples-python.git
 ```
 
 2. Execute o script:
